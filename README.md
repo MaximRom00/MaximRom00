@@ -1,8 +1,19 @@
 ## Hi there 👋
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/maxrom96)
+<div align="right">
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MaximRom00)](https://github.com/MaximRom00a)
+</div>
 
+<h3 align="center">📫 How to reach me:</h3>
+<h1 align="center">
 
+<a href="mailto:romanchmaxim96@gmail.com">![romanchmaxim96@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+   
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maxrom96)
+
+</h1>
+
+____<details close><summary><font size = 100> Tech Stack : </font></summary>____
 
 <!--
 **MaximRom00/MaximRom00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
